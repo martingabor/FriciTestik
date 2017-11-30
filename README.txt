@@ -2,4 +2,6 @@ Toto je skusobny git pre firicho
 
 naaajs
 420
-blaze it
+toto je prva zmena
+
+Toto je druha zmena
